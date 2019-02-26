@@ -1,8 +1,8 @@
 ## ic-project-1-boilerplate
-1st project - Onboarding Task - 
+1st project - Onboarding Task
 
 ## Technologies used:
-1) JavaScript, 'React', Semantic UI, ASP.Net MVC, C#, Entity Framework & SQL Server
+JavaScript, 'React', Semantic UI, ASP.Net MVC, C#, Entity Framework & SQL Server
 
 ## Project tasks:
 1) Development of the database tables & relationships as per specification
